@@ -1,0 +1,17 @@
+.DS_Store
+build/
+output/
+*.o
+*.depend
+*.cbp
+*.layout
+*.dat
+*.swp
+*.aux
+*.tex
+*.stackdump
+*.pdf
+*~
+code/main/run.sh
+*.bfs
+*.pdf
