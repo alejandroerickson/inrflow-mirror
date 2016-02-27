@@ -1,0 +1,30 @@
+\documentclass[10pt,letterpaper]{article}%
+
+\usepackage{amsmath,amsthm,amssymb,graphicx,array,rotating, units,mathabx}%
+\usepackage{fullpage}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+
+\pgfplotsset{}
+
+\makeatletter
+\let\zz\pgfplots@environment@axis
+\def\pgfplots@environment@axis{\endlinechar` \zz}
+\makeatother
+
+\begin{document}
+
+%This command is provided in the command line by calling the following
+%with the appropriate stats and histogram files:
+% pdflatex  "\newcommand\thetables{\pgfplotstabletranspose\statstable{<stats file>} \pgfplotstableread{<histogram file>}\histogramtable}\input{pretty_data.tex}"
+
+% pdflatex"\newcommand\thetables{\pgfplotstabletranspose\statstable{swcube_dimensional_k5n4_seed13.dat}}\input{pretty_data.tex}"
+ 
+\thetables
+
+
+
+\pgfplotstabletypeset[string type,column type=l,string replace*={_}{\textunderscore}]\statstable
+
+\end{document}
+ 
