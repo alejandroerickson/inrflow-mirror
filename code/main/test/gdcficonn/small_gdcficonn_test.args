@@ -1,0 +1,2 @@
+topo=gdcficonn_2_8_1 failure_rate=0.2 routing=gdcficonn-proxy_1_2 tpattern=random_100 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_3_4_1 failure_rate=0.1 routing=gdcficonn-proxy_2_2_3 tpattern=random_100 generate_bfs=false compile_latex=true placement=sequential

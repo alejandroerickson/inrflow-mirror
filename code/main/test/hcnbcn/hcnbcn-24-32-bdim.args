@@ -1,0 +1,12 @@
+topo=hcnbcn_3_29_3_1_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_1_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_2_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_2_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_1_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_1_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_2_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_2_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false

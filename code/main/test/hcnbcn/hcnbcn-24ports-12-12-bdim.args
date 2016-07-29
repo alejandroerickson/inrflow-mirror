@@ -1,0 +1,4 @@
+topo=hcnbcn_12_12_2_1_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_12_12_2_1_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_12_12_3_0_0 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_12_12_3_0_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false

@@ -1,0 +1,12 @@
+topo=hcnbcn_3_29_3_3_0 routing=hcnbcn-newbdim tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_0 routing=hcnbcn-newbdim_0 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_0 routing=hcnbcn-newbdim_1 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_1 routing=hcnbcn-newbdim tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_1 routing=hcnbcn-newbdim_0 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_29_3_3_1 routing=hcnbcn-newbdim_1 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_0 routing=hcnbcn-newbdim tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_0 routing=hcnbcn-newbdim_0 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_0 routing=hcnbcn-newbdim_1 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_1 routing=hcnbcn-newbdim tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_1 routing=hcnbcn-newbdim_0 tpattern=random_100000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_3_21_3_3_1 routing=hcnbcn-newbdim_1 tpattern=random_100000000 generate_bfs=false compile_latex=false

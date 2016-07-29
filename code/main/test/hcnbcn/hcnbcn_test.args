@@ -1,0 +1,6 @@
+topo=hcnbcn_4_1_3 routing=hcnbcn-fdim tpattern=alltoall generate_bfs=false compile_latex=false
+topo=hcnbcn_4_1_3 routing=hcnbcn-newfdim tpattern=alltoall generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1_0 routing=hcnbcn-bdim tpattern=random_100000 generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1_0 routing=hcnbcn-newbdim_1 tpattern=random_100000 generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1_1 routing=hcnbcn-bdim tpattern=random_100000 generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1_1 routing=hcnbcn-newbdim_1 tpattern=random_100000 generate_bfs=false compile_latex=false

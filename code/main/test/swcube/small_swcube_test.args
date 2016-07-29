@@ -1,0 +1,4 @@
+topo=swcube_3_4 failure_rate=0.0 tpattern=manyall2all_1 generate_bfs=false compile_latex=true placement=sequential
+topo=swcube_3_4 failure_rate=0.0 tpattern=manyall2allrnd_1 generate_bfs=false compile_latex=true placement=sequential
+topo=swcube_3_4 failure_rate=0.2 tpattern=random_100 generate_bfs=false compile_latex=true placement=sequential
+topo=swcube_3_4 failure_rate=0.0 tpattern=hotregion_1 generate_bfs=false compile_latex=true placement=sequential

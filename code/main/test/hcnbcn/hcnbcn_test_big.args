@@ -1,0 +1,10 @@
+topo=hcnbcn_7_2_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_7_2_3_1 routing=hcnbcn-newbdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_6_3_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_6_3_3_1 routing=hcnbcn-newbdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_5_4_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_5_4_3_1 routing=hcnbcn-newbdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_4_5_3_1 routing=hcnbcn-newbdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_2_7_3_1 routing=hcnbcn-bdim tpattern=random_1000000 generate_bfs=false compile_latex=false
+topo=hcnbcn_2_7_3_1 routing=hcnbcn-newbdim tpattern=random_1000000 generate_bfs=false compile_latex=false

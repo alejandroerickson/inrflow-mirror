@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.5)
+project(inrflow)
+# set(CMAKE_BINARY_DIR ${CMAKE_SOURCE_DIR}/build/bin)
+# set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}) 
+# set(LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR})
+# include_directories(src)
+file(GLOB_RECURSE SRC_FILES src/*.c)
+add_executable(inrflow ${SRC_FILES})
+
+# message(${PROJECT_SOURCE_DIR})
+# message(${SRC_FILES})

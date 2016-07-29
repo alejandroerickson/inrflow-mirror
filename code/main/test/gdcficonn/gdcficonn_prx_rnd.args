@@ -1,0 +1,8 @@
+topo=gdcficonn_3_4_0 failure_rate=0.0 routing=gdcficonn-proxy_1_3 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_3_4_1 failure_rate=0.0 routing=gdcficonn-proxy_1_3 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_2_43_0 failure_rate=0.0 routing=gdcficonn-proxy_1_2 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_2_43_1 failure_rate=0.0 routing=gdcficonn-proxy_1_2 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_3_4_0 failure_rate=0.1 routing=gdcficonn-proxy_1_3 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_3_4_1 failure_rate=0.1 routing=gdcficonn-proxy_1_3 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_2_43_0 failure_rate=0.1 routing=gdcficonn-proxy_1_2 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
+topo=gdcficonn_2_43_1 failure_rate=0.1 routing=gdcficonn-proxy_1_2 tpattern=random_1000000 generate_bfs=false compile_latex=true placement=sequential
